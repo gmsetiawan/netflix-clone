@@ -1,0 +1,13 @@
+netflix-clone-4a0c4.web.app
+
+Anda dapat menerapkan sekarang atau nanti. Untuk menerapkan sekarang, buka jendela terminal, lalu buka atau buat sebuah direktori utama untuk aplikasi web Anda.
+Login ke Google
+firebase login
+
+Mulai project Anda
+Jalankan perintah ini dari direktori utama aplikasi Anda:
+firebase init
+
+Jika Anda sudah siap, terapkan aplikasi web Anda
+Masukkan file statis Anda (mis., HTML, CSS, JS) ke direktori penerapan aplikasi (default-nya adalah “publik”). Lalu, jalankan perintah ini dari direktori utama aplikasi:
+firebase deploy
